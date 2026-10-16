@@ -8,7 +8,11 @@ This project was created to practice fundamental Unity concepts such as player m
 
 ## 🎮 Gameplay
 
+### Start Screen
+<img width="470" height="836" alt="image" src="https://github.com/user-attachments/assets/9a2728cd-a8df-499a-8b6f-cc0a7ed53817" />
+
 The player is positioned near the bottom of the screen while boxes fall from above.
+<img width="470" height="827" alt="image" src="https://github.com/user-attachments/assets/3c5e3b0c-c22c-406d-b0d0-2700b40c904f" />
 
 Move the player to the **left or right** to avoid being hit by the falling boxes.
 
